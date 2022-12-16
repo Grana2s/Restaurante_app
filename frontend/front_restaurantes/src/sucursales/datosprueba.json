@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "nombre_sucursal": "Las Plazas",
+        "direccion": "Sin dirección",
+        "ciudad": "Irapuato",
+        "telefono": "4621234567",
+        "estado": "Guanajuato",
+        "codigo_postal": "36842",
+        "latitud": 4.0,
+        "longitud": 5.0
+    },
+    {
+        "id": 2,
+        "nombre_sucursal": "Prolongación Guerrero",
+        "direccion": "",
+        "ciudad": "León",
+        "telefono": "4621234567",
+        "estado": "Guanajuato",
+        "codigo_postal": "67123",
+        "latitud": 9.0,
+        "longitud": 4.0
+    },
+    {
+        "id": 3,
+        "nombre_sucursal": "El bajio",
+        "direccion": "Sin direccion",
+        "ciudad": "Irapuato",
+        "telefono": "46297849",
+        "estado": "Guanajuato",
+        "codigo_postal": "43245",
+        "latitud": 32.0,
+        "longitud": 42.0
+    }
+]
